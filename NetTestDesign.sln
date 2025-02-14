@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTestDesign", "NetTestDesign\NetTestDesign.csproj", "{6EA6101E-BE17-403A-8064-47C0916FD4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA6101E-BE17-403A-8064-47C0916FD4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA6101E-BE17-403A-8064-47C0916FD4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA6101E-BE17-403A-8064-47C0916FD4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA6101E-BE17-403A-8064-47C0916FD4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A9DDB14-6F8D-4CC7-BADD-8C8F1880C664}
+	EndGlobalSection
+EndGlobal
